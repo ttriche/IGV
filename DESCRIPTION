@@ -14,8 +14,7 @@ LazyLoad: yes
 biocViews: Visualization, ThirdPartyClient
 Collate:
    'Track.R'
+   'VariantTrack.R'
    'AnnotationTrack.R'
-   'DataAnnotationTrack.R'
-   'UrlAnnotationTrack.R'
    'IGV.R'
 
